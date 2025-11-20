@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ReviewPulse - AI Sentiment Analyzer",
+  "description": "A powerful sentiment analysis dashboard that processes customer reviews to extract insights, sentiment trends, and frequent topics using the Gemini API.",
+  "requestFramePermissions": []
+}
